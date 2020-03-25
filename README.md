@@ -111,26 +111,33 @@ bug was detected with the type of repair which should be applied.
 * tba, www: tba
 
 # Research Papers
+* Paul Muntean, Martin Monperrus, Hao Sun, Jens Grossklags and Claudia Eckert, "IntRepair: Informed Repairing of Integer Overflows", In IEEE Transactions on Software Engineering, 2019. 
+
+```
+@article{intrepair,
+ title = {IntRepair: Informed Repairing of Integer Overflows},
+ journal = {IEEE Transactions on Software Engineering},
+ year = {2019},
+ doi = {10.1109/tse.2019.2946148},
+ author = {Paul Muntean and Martin Monperrus and Hao Sun and Jens Grossklags and Claudia Eckert},
+ url = {http://arxiv.org/pdf/1807.05092},
+}
+```
+
+
 * P. Muntean, M. Rahman, A. Ibing, and C. Eckert. SMT-Constrained Symbolic Execution Engine for Integer Overflow Detection in C Code. In International Information Security South Africa Conference (ISSA), Johannesburg, South Africa, August 2015. IEEE Computer Society.
 
+```
 @conference{364,
-
-  author = {Muntean, Paul and Rahman, Mustafizur, and Ibing, Andreas and Eckert, Claudia},
-  
+  author = {Muntean, Paul and Rahman, Mustafizur, and Ibing, Andreas and Eckert, Claudia},  
   title = {SMT-Constrained Symbolic Execution Engine for Integer Overflow Detection in C Code},
-  
   booktitle = {International Information Security South Africa Conference (ISSA), Johannesburg, South Africa},
-  
   year = {2015},{enter}
-  
   publisher = {IEEE Computer Society},
-  
   month = aug,
-  
   url = {https://www.sec.in.tum.de/assets/staff/muntean/issa2015.pdf}
-  
 }
-
+```
 
 * P. Muntean, V. Kommanapalli, A. Ibing, and C. Eckert. Automated Generation of Buffer Overflows Quick Fixes using Symbolic Execution and SMT. In International Conference on Computer Safety, Reliability & Security (SAFECOMP), Delft, The Netherlands, September 2015. Springer LNCS.
 
